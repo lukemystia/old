@@ -1,0 +1,9 @@
+\\LANDISK_402NEW\disk1\学生\saito\0_その他\ClipboardViewer\ClipboardViewer\bin\Release\ClipboardViewer.exe
+\\LANDISK_402NEW\disk1\学生\saito\0_その他\ClipboardViewer\ClipboardViewer\bin\Release\ClipboardViewer.pdb
+\\LANDISK_402NEW\disk1\学生\saito\0_その他\ClipboardViewer\ClipboardViewer\obj\x86\Release\ResolveAssemblyReference.cache
+\\LANDISK_402NEW\disk1\学生\saito\0_その他\ClipboardViewer\ClipboardViewer\obj\x86\Release\ClipboardViewer.Form1.resources
+\\LANDISK_402NEW\disk1\学生\saito\0_その他\ClipboardViewer\ClipboardViewer\obj\x86\Release\ClipboardViewer.Properties.Resources.resources
+\\LANDISK_402NEW\disk1\学生\saito\0_その他\ClipboardViewer\ClipboardViewer\obj\x86\Release\GenerateResource.read.1.tlog
+\\LANDISK_402NEW\disk1\学生\saito\0_その他\ClipboardViewer\ClipboardViewer\obj\x86\Release\GenerateResource.write.1.tlog
+\\LANDISK_402NEW\disk1\学生\saito\0_その他\ClipboardViewer\ClipboardViewer\obj\x86\Release\ClipboardViewer.exe
+\\LANDISK_402NEW\disk1\学生\saito\0_その他\ClipboardViewer\ClipboardViewer\obj\x86\Release\ClipboardViewer.pdb
