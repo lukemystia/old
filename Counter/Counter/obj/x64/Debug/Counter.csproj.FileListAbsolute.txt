@@ -1,0 +1,7 @@
+C:\Users\Luke\Desktop\Dropbox\学校関連\0_その他\Counter\Counter\bin\x64\Debug\Counter.exe
+C:\Users\Luke\Desktop\Dropbox\学校関連\0_その他\Counter\Counter\bin\x64\Debug\Counter.pdb
+C:\Users\Luke\Desktop\Dropbox\学校関連\0_その他\Counter\Counter\obj\x64\Debug\Counter.Form1.resources
+C:\Users\Luke\Desktop\Dropbox\学校関連\0_その他\Counter\Counter\obj\x64\Debug\Counter.Properties.Resources.resources
+C:\Users\Luke\Desktop\Dropbox\学校関連\0_その他\Counter\Counter\obj\x64\Debug\Counter.csproj.GenerateResource.Cache
+C:\Users\Luke\Desktop\Dropbox\学校関連\0_その他\Counter\Counter\obj\x64\Debug\Counter.exe
+C:\Users\Luke\Desktop\Dropbox\学校関連\0_その他\Counter\Counter\obj\x64\Debug\Counter.pdb
